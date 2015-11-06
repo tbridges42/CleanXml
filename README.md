@@ -5,4 +5,4 @@ Due to some rather ridiculous restraints at work, I had a situation where I was 
 
 Essentially I'm duplicating the target database in xml form, but since the source team won't make the required changes and I have no permissions in either the source or destination systems, it is what it is.
 
-This is also my first ever project in Python. Time from inception to the first full commit was 3 hours, including setting up PyCharm and reading the docs.
+This is also my first ever project in Python. Time from inception to the first fully working commit was 3 hours, including setting up PyCharm and reading the docs.
